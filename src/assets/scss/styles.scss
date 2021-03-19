@@ -113,6 +113,7 @@ img {
 
   @include for-tablet {
     min-height: auto;
+    max-width: 550px;
     width: 60%;
     padding: 32px;
     border-radius: 30px;
