@@ -1,0 +1,11 @@
+export const VALID_FIRST = /^[1-9]{1}$/;
+export const VALID_NEXT = /^[0-9]{1}$/;
+export const DELETE_KEY_CODE = 8;
+export const LIMIT = 1000000000000000;
+export const MAX_DEDUCTION = 260000;
+export const MONTH_MUNBER = 12;
+export const VAT = 0.13;
+export const CLASS_SALARY = "salary";
+export const CLASS_ERROR = " error";
+export const CLASS_OVERLAY = "overlay";
+export const CLASS_ACTIVE = " active"
